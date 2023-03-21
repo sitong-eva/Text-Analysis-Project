@@ -1,5 +1,3 @@
-"[Verse]
-
 a
 about
 above

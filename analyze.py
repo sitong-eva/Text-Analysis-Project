@@ -36,6 +36,9 @@ def most_common(hist, excluding_stopwords=False):
 
 
 def drakevbeatles(d1, d2):
+    """
+    This function compares the Drake lyrics with the Beatles lyrics to see how much of the Drake lyrics is unique from the Beatles lyrics.
+    """
     unique = 0
     total = 0
     for key in d1:
