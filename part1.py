@@ -12,10 +12,12 @@ def process_file(filename):
 
     return hist
 
+
 def main():
     hist = process_file("drake_lyrics.txt")
-    drake=process_file("drake_lyrics.txt")
-    beatles=process_file("beatles.txt")
+    drake = process_file("drake_lyrics.txt")
+    beatles = process_file("beatles.txt")
+
 
 if __name__ == "__main__":
     main()
